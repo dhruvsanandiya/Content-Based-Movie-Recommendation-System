@@ -1,4 +1,6 @@
+#install below given library
 flask
 gunicorn
 scikit-learn
 pandas
+#change directory name new → venv
