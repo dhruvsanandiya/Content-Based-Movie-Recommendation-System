@@ -56,6 +56,10 @@ Since this snippet of code doesn't use any packages, a dictionary was created to
 
 
 ## Setup
+download the zip file :
+```
+change directory name new → venv
+```
 activate environment and install requirements (windows):
 ```
 python -m venv venv
